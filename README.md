@@ -1,0 +1,1 @@
+Creating a project to track expenses made during the whole day, month and year
