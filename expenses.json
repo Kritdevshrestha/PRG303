@@ -1,0 +1,252 @@
+[
+    {
+        "Date":1731283200000,
+        "Amount":24.13,
+        "Category":" Stock"
+    },
+    {
+        "Date":1723420800000,
+        "Amount":1150.0,
+        "Category":" Rent"
+    },
+    {
+        "Date":1726358400000,
+        "Amount":19.82,
+        "Category":" Groceries"
+    },
+    {
+        "Date":1721433600000,
+        "Amount":1080.0,
+        "Category":" Utilities"
+    },
+    {
+        "Date":1727740800000,
+        "Amount":20.91,
+        "Category":" Internet"
+    },
+    {
+        "Date":1719273600000,
+        "Amount":1030.0,
+        "Category":" Furniture"
+    },
+    {
+        "Date":1732752000000,
+        "Amount":25.67,
+        "Category":" Car Insurance"
+    },
+    {
+        "Date":1723939200000,
+        "Amount":950.0,
+        "Category":" Gym Membership"
+    },
+    {
+        "Date":1726963200000,
+        "Amount":21.19,
+        "Category":" Phone Bill"
+    },
+    {
+        "Date":1721001600000,
+        "Amount":1100.0,
+        "Category":" Cable TV"
+    },
+    {
+        "Date":1728518400000,
+        "Amount":19.35,
+        "Category":" Home Maintenance"
+    },
+    {
+        "Date":1719705600000,
+        "Amount":1070.0,
+        "Category":" Pet Expenses"
+    },
+    {
+        "Date":1732492800000,
+        "Amount":22.91,
+        "Category":" Travel"
+    },
+    {
+        "Date":1724284800000,
+        "Amount":1180.0,
+        "Category":" Subscription Services"
+    },
+    {
+        "Date":1727481600000,
+        "Amount":20.67,
+        "Category":" Dining Out"
+    },
+    {
+        "Date":1721433600000,
+        "Amount":960.0,
+        "Category":" Entertainment"
+    },
+    {
+        "Date":1728950400000,
+        "Amount":25.19,
+        "Category":" Health Insurance"
+    },
+    {
+        "Date":1719273600000,
+        "Amount":1040.0,
+        "Category":" Credit Card Payment"
+    },
+    {
+        "Date":1732924800000,
+        "Amount":18.91,
+        "Category":" Savings"
+    },
+    {
+        "Date":1724544000000,
+        "Amount":1090.0,
+        "Category":" Home Improvement"
+    },
+    {
+        "Date":1727654400000,
+        "Amount":21.45,
+        "Category":" Gifts"
+    },
+    {
+        "Date":1721606400000,
+        "Amount":1000.0,
+        "Category":" Books"
+    },
+    {
+        "Date":1729382400000,
+        "Amount":23.67,
+        "Category":" Hobbies"
+    },
+    {
+        "Date":1719532800000,
+        "Amount":1060.0,
+        "Category":" Childcare"
+    },
+    {
+        "Date":1732752000000,
+        "Amount":19.49,
+        "Category":" Education"
+    },
+    {
+        "Date":1724803200000,
+        "Amount":1010.0,
+        "Category":" Miscellaneous"
+    },
+    {
+        "Date":1727740800000,
+        "Amount":22.67,
+        "Category":" Stock"
+    },
+    {
+        "Date":1721865600000,
+        "Amount":1030.0,
+        "Category":" Rent"
+    },
+    {
+        "Date":1726358400000,
+        "Amount":20.91,
+        "Category":" Groceries"
+    },
+    {
+        "Date":1719705600000,
+        "Amount":1160.0,
+        "Category":" Utilities"
+    },
+    {
+        "Date":1731283200000,
+        "Amount":18.67,
+        "Category":" Internet"
+    },
+    {
+        "Date":1723939200000,
+        "Amount":970.0,
+        "Category":" Furniture"
+    },
+    {
+        "Date":1726963200000,
+        "Amount":21.67,
+        "Category":" Car Insurance"
+    },
+    {
+        "Date":1721001600000,
+        "Amount":1050.0,
+        "Category":" Gym Membership"
+    },
+    {
+        "Date":1728518400000,
+        "Amount":23.49,
+        "Category":" Phone Bill"
+    },
+    {
+        "Date":1719705600000,
+        "Amount":1080.0,
+        "Category":" Cable TV"
+    },
+    {
+        "Date":1732492800000,
+        "Amount":19.49,
+        "Category":" Home Maintenance"
+    },
+    {
+        "Date":1724284800000,
+        "Amount":1000.0,
+        "Category":" Pet Expenses"
+    },
+    {
+        "Date":1727481600000,
+        "Amount":22.67,
+        "Category":" Travel"
+    },
+    {
+        "Date":1721433600000,
+        "Amount":1060.0,
+        "Category":" Subscription Services"
+    },
+    {
+        "Date":1728950400000,
+        "Amount":20.91,
+        "Category":" Dining Out"
+    },
+    {
+        "Date":1719273600000,
+        "Amount":1030.0,
+        "Category":" Entertainment"
+    },
+    {
+        "Date":1732924800000,
+        "Amount":25.19,
+        "Category":" Health Insurance"
+    },
+    {
+        "Date":1724544000000,
+        "Amount":1180.0,
+        "Category":" Credit Card Payment"
+    },
+    {
+        "Date":1727654400000,
+        "Amount":18.67,
+        "Category":" Savings"
+    },
+    {
+        "Date":1721606400000,
+        "Amount":960.0,
+        "Category":" Home Improvement"
+    },
+    {
+        "Date":1729382400000,
+        "Amount":21.45,
+        "Category":" Gifts"
+    },
+    {
+        "Date":1719532800000,
+        "Amount":1040.0,
+        "Category":" Books"
+    },
+    {
+        "Date":1732752000000,
+        "Amount":23.67,
+        "Category":" Hobbies"
+    },
+    {
+        "Date":1724803200000,
+        "Amount":1090.0,
+        "Category":" Childcare"
+    }
+]
